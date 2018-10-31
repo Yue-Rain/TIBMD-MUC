@@ -7,6 +7,6 @@ This is a Tibetan multi-dialect data resource for speech research. It can be use
 |Kham dialect Yushu | 3.41 | 5 | 3 | 2499 |
 |Kham dialect Changdu | 2.08 | 5 | 1 | 1953 |
 |Kham dialect Dege | 3.27 | 4 | 3 | 2872 |
-|Hualong-Amdo dialect | 2.98 | 4 | 4 | 2968 |
+|Hualong-Amdo dialect | 5.98 | 10 | 8 | 6079 |
 
 ## References (Please cite the following articles)
